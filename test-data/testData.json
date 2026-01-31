@@ -1,0 +1,172 @@
+[
+  {
+    "id":"Pos_Fun_0001",
+    "input":"mama gedhara innee.",
+    "expected":"මම ගෙදර ඉන්නේ."
+  },
+  {
+    "id":"Pos_Fun_0002",
+    "input":"oya enavaanam api yanna hadhanavaa.",
+    "expected":"ඔයා එනවානම් අපි යන්න හදනවා."
+  },
+  {
+    "id":"Pos_Fun_0003",
+    "input":"api heta ennee naehae.",
+    "expected":"අපි හෙට එන්නේ නැහැනෙ."
+  },
+  {
+    "id":"Pos_Fun_0004",
+    "input":"samaavenna, mage varadhak unaa.",
+    "expected":"සමාවෙන්න, මගෙ වරදක් උනා."
+  },
+  {
+    "id":"Pos_Fun_0005",
+    "input":"puLuvannam mata eeka evanna.",
+    "expected":"පුලුවන්නම් මට ඒක එවන්න."
+  },
+  {
+    "id":"Pos_Fun_0006",
+    "input":"7.30 A.M vaedata yanna oonee.",
+    "expected":"7.30 A.M වැඩට යන්න ඕනේ."
+  },
+  {
+    "id":"Pos_Fun_0007",
+    "input":"mata WhatsApp msg ekak evanna.",
+    "expected":"මට WhatsApp msg එකක් එවන්න."
+  },
+  {
+    "id":"Pos_Fun_0008",
+    "input":"documents tika attach karalaa email ekak evanna.",
+    "expected":"Document ටික attach කරලා email එකක් එවන්න."
+  },
+  {
+    "id":"Pos_Fun_0009",
+    "input":"api iiyee movie ekak baluwaa.",
+    "expected":"අපි ඊයේ movie එකක් බලුවා."
+  },
+  {
+    "id":"Pos_Fun_0010",
+    "input":"mt 500 vitharai thiyennee.",
+    "expected":"මට 500 විතරයි තියෙන්නේ."
+  },
+  {
+    "id":"Pos_Fun_0011",
+    "input":"25\/12\/2025 party ekak thiyenavaa.",
+    "expected":"25\/12\/2025 Party එකක් තියෙනවා."
+  },
+  {
+    "id":"Pos_Fun_0012",
+    "input":"Oyaa enne kavadhdha?",
+    "expected":"ඔයා එන්නෙ කවද්ද?"
+  },
+  {
+    "id":"Pos_Fun_0013",
+    "input":"Oyaa computer eka use karanakota 'Operating System' eka gana danaganna eka wadagath. Windows ho Linux vage OS ekak thiyenna oone. Ee vageema 'RAM' eka wadi unoth machine eka fast wenava. Internet yanna 'Browser' ekak oone, Chrome ho Firefox pavichchi karanna puluvan. Virus enava valakwanna 'Antivirus' software ekak daaganna. Update karanna amathaka karanna epa. Data backup karaganna eka hondai. Hard disk eka pirila nam file delete karanna. Mouse saha Keyboard eka hariyata wada karanawada balanna.",
+    "expected":"ඔයා computer එක use කරනකොට 'Operating System' එක ගැන දැනගන්න එක වැදගත්. Windows හෝ Linux වගේ OS එකක් තියෙන්න ඕනේ. ඒ වගේම 'RAM' එක වැඩි උනොත් machine එක fast වෙනවා. Internet යන්න 'Browser' එකක් ඕනේ, Chrome හෝ Firefox පාවිච්චි කරන්න පුළුවන්. Virus එනවා වළක්වන්න 'Antivirus' software එකක් දාගන්න. Update කරන්න අමතක කරන්න එපා. Data backup කරගන්න එක හොඳයි. Hard disk එක පිරිලා නම් file delete කරන්න. Mouse සහ Keyboard එක හරියට වැඩ කරනවද බලන්න"
+  },
+  {
+    "id":"Pos_Fun_0014",
+    "input":"mama late unaa traffic nisaa.",
+    "expected":"මම late උනා traffic නිසා"
+  },
+  {
+    "id":"Pos_Fun_0015",
+    "input":"mama heta kolamba yanavaa ehet yanna kalin oyaava hamba venna oone",
+    "expected":"මම හෙට කොළඹ යනවා එහෙත් යන්න කලින් ඔයාව හම්බ වෙන්න ඕනේ"
+  },
+  {
+    "id":"Pos_Fun_0016",
+    "input":"mage NIC number eka evanna.",
+    "expected":"මගේ NIC number එක එවන්න"
+  },
+  {
+    "id":"Pos_Fun_0017",
+    "input":"elakiri",
+    "expected":"එළකිරි"
+  },
+  {
+    "id":"Pos_Fun_0018",
+    "input":"mata heta class enna vidhihak nae mokada mata una.",
+    "expected":"මට හෙට class එන්න විදිහක් නෑ මොකද මට උණ."
+  },
+  {
+    "id":"Pos_Fun_0019",
+    "input":"doctor kiwwa beheth bonna kiyala.",
+    "expected":"doctor කිව්වා බෙහෙත් බොන්න කියලා."
+  },
+  {
+    "id":"Pos_Fun_0020",
+    "input":"ada wadiya rasne nae.",
+    "expected":"අද වැඩිය රස්නේ නෑ."
+  },
+  {
+    "id":"Pos_Fun_0021",
+    "input":"Lankave sancharaka industry eka dan diyunu vegena enava. Videshika sancharakayo godak enava. Api eyalata hondata salakanna oone. Hotels saha restaurants walata hondha aadaayamak labenava. Rataata meken loku vaasiyak thiyenava. Api ape rata lassana karanna oone. Kunu daanna epa, parisaraya surakina eka ape yuthukama. Me gana danuvath kireeme wadasatahan thiyanna oone. Sancharakayo kemathi ape sanskruthiya dakinna",
+    "expected":"ලංකාවේ සංචාරක industry එක දැන් දියුණු වේගෙන එනවා. විදේශික සංචාරකයෝ ගොඩක් එනවා. අපි එයාලට හොඳට සලකන්න ඕනේ. Hotels සහ restaurants වලට හොඳ ආදායමක් ලැබෙනවා. රටට මේකෙන් ලොකු වාසියක් තියෙනවා. අපි අපේ රට ලස්සන කරන්න ඕනේ. කුණු දාන්න එපා, පරිසරය සුරැකීම අපේ යුතුකම. මේ ගැන දැනුවත් කිරීමේ වැඩසටහන් තියන්න ඕනේ. සංචාරකයෝ කැමති අපේ සංස්කෘතිය දකින්න"
+  },
+  {
+    "id":"Pos_Fun_0022",
+    "input":"Town hall eken bahala wam athata harila kelin yanna.",
+    "expected":"Town hall එකෙන් බැහැලා වම් අතට හැරිලා කෙලින් යන්න"
+  },
+  {
+    "id":"Pos_Fun_0023",
+    "input":"Me potha kiyawanna hari asai mokada eke kathava lassanai.",
+    "expected":"මේ පොත කියවන්න හරි ආසයි මොකද එකේ කතාව ලස්සනයි"
+  },
+  {
+    "id":"Pos_Fun_0024",
+    "input":"Suba sandhyawak obata.",
+    "expected":"සුබ සන්ධ්‍යාවක් ඔබට"
+  },
+  {
+    "id":"Neg_Fun_0001",
+    "input":"gedhra",
+    "expected":"ගෙදර"
+  },
+  {
+    "id":"Neg_Fun_0002",
+    "input":"gedh@ra",
+    "expected":"ගෙදර"
+  },
+  {
+    "id":"Neg_Fun_0003",
+    "input":"mama $$$ gedhara !!! yanavaa",
+    "expected":"Partial or incorrect conversion"
+  },
+  {
+    "id":"Neg_Fun_0004",
+    "input":"mmmaaa gddharaaa yannavvaaa",
+    "expected":"Incorrect Sinhala output"
+  },
+  {
+    "id":"Neg_Fun_0005",
+    "input":"lol bro this is crazy",
+    "expected":"No Sinhala conversion"
+  },
+  {
+    "id":"Neg_Fun_0006",
+    "input":"123456789",
+    "expected":"No conversion\nSame as"
+  },
+  {
+    "id":"Neg_Fun_0007",
+    "input":"(empty)",
+    "expected":"No output generated"
+  },
+  {
+    "id":"Neg_Fun_0008",
+    "input":"if(a>b){return true;}",
+    "expected":"No meaningful"
+  },
+  {
+    "id":"Neg_Fun_0009",
+    "input":"bonjour comment ca va",
+    "expected":"Incorrect output"
+  },
+  {
+    "id":"Neg_Fun_0010",
+    "input":"aaaa bbbb cccc",
+    "expected":"Incorrect output"
+  }
+]
